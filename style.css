@@ -1,0 +1,47 @@
+form {
+  border: solid 1px ;
+  padding: 5rem;
+}
+.gcontainer{
+  background: lightgoldenrodyellow;
+}
+
+input[type=text], input[type=text], input[type=text], input[type=text], input[type=text], input[type=text], input[type=date] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+
+
+#submit {
+  background-color: #04AA6D;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+}
+
+
+#submit:hover {
+  opacity: 0.8;
+}
+
+
+
+.icontainer {
+  text-align: center;
+  margin: 24px 0 12px 0;
+
+}
+
+
+.container {
+  padding: 16px;
+  background: burlywood;
+}
+
